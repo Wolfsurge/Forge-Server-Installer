@@ -1,0 +1,32 @@
+Thanks for using this installer!
+
+You will need: A device running Microsoft Windows, the latest version of Python. You can download Python from:
+
+https://www.python.org/downloads/
+
+---------------------------------------------------------------------------------------------------------------------
+
+To begin, double-click the 'InstallPackages.bat' file. This will install the required packages to download everything.
+Once the InstallPackages.bat file closes, run the InstallServer.py file. This will install everything you need to run
+your server. Put any mods you want into the 'mods' folder. 
+
+Once done, you can double-click the 'StartServer.bat' file to run your server!
+
+---Additional Options---
+Once the 'StartServer.bat' file has downloaded, you can change the value of the number after '-Xmx' to specify how much
+RAM you want to use. E.G. If I wanted an 8GB server, I would change it to '-Xmx8192M' or '-Xmx8G'. Recommended to use 
+at least 2GB RAM. 
+
+1024M - 1GB
+2048M - 2GB
+3072M - 3GB
+4096M - 4GB
+5120M - 5GB
+6144M - 6GB
+7168M - 7GB
+8192M - 8GB 
+
+
+*** NOTES ***
+This does not portforward your machine. You will have to do that yourself.
+I do not take responsibility for any form of cyber-attack. Including DDoS attacks and hacking.
